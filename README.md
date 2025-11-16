@@ -2,11 +2,8 @@
 
 This Streamlit app is a small data visualization portfolio and a mini analytics product.
 It explores a diabetes dataset from Kaggle using interactive charts and a simple dashboard.
-**Live app:** https://cs39aefall25project2-cnaamjg4j35zkoexnac2ao.streamlit.app/ 
 
-## Author
-
-- **Name:** Umulbanin Gulzar  
+**Live app:** https://cs39aefall25project2-cnaamjg4j35zkoexnac2ao.streamlit.app/  
 
 ## App Navigation Overview
 
