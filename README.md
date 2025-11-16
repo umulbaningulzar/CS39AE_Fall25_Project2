@@ -2,6 +2,7 @@
 
 This Streamlit app is a small data visualization portfolio and a mini analytics product.
 It explores a diabetes dataset from Kaggle using interactive charts and a simple dashboard.
+**Live app:** https://cs39aefall25project2-cnaamjg4j35zkoexnac2ao.streamlit.app/ 
 
 ## Author
 
@@ -18,12 +19,7 @@ It explores a diabetes dataset from Kaggle using interactive charts and a simple
 ## Dataset Information
 
 - **Dataset name:** Diabetes Dataset  
-- **Source:** [Kaggle – Diabetes Dataset](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)  
-- **Number of records:** 768  
-- **Preprocessing:** Basic cleaning was done by the dataset author; in this app I load the data as-is and create a helper label (`OutcomeLabel`) that maps 0 = No Diabetes and 1 = Diabetes.
-
-### Ethics Note
-
+- **Source:** [Kaggle – Diabetes Dataset](https://www.kaggle.com/datasets/akshaydattatraykm          
 This dataset includes medical information about real people, but it is anonymized and does not contain names or direct identifiers.  
 The patterns shown in these charts are descriptive and should not be used to make decisions about any individual person.  
 Because the data come from a specific group of patients, the results may not represent all populations or all experiences with diabetes.
@@ -39,4 +35,4 @@ source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
 
-**Streamlit Portfolio:** 
+7
