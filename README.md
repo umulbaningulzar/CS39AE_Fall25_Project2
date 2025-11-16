@@ -5,6 +5,9 @@ It explores a diabetes dataset from Kaggle using interactive charts and a simple
 
 **Live app:** https://cs39aefall25project2-cnaamjg4j35zkoexnac2ao.streamlit.app/  
 
+**Name:** Umulbanin GUlzar
+**Email:** ugulzar@msudenver.edu
+
 ## App Navigation Overview
 
 - **Home:** Intro and navigation.
