@@ -6,7 +6,6 @@ It explores a diabetes dataset from Kaggle using interactive charts and a simple
 ## Author
 
 - **Name:** Umulbanin Gulzar  
-- **Contact:** (add your LinkedIn or email here if you want)
 
 ## App Navigation Overview
 
