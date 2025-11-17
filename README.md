@@ -5,7 +5,7 @@ It explores a diabetes dataset from Kaggle using interactive charts and a simple
 
 **Live app:** https://cs39aefall25project2-cnaamjg4j35zkoexnac2ao.streamlit.app/  
 
-**Name:** Umulbanin GUlzar
+**Name:** Umulbanin Gulzar  
 **Email:** ugulzar@msudenver.edu
 
 ## App Navigation Overview
@@ -19,7 +19,8 @@ It explores a diabetes dataset from Kaggle using interactive charts and a simple
 ## Dataset Information
 
 - **Dataset name:** Diabetes Dataset  
-- **Source:** [Kaggle – Diabetes Dataset](https://www.kaggle.com/datasets/akshaydattatraykm          
+- **Source:** [Kaggle – Diabetes Dataset](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
+
 This dataset includes medical information about real people, but it is anonymized and does not contain names or direct identifiers.  
 The patterns shown in these charts are descriptive and should not be used to make decisions about any individual person.  
 Because the data come from a specific group of patients, the results may not represent all populations or all experiences with diabetes.
@@ -35,7 +36,5 @@ source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
 
-
-### AI Assistance
+---
 AI assistance was used.
-
